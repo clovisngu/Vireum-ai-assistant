@@ -3,7 +3,7 @@ link: https://lekhangnguyen.github.io/vietrestaurantstatic/
 ## Project Overview
 **Course:** Building Static Websites  
 **Group 13:**  
-- **Augustine, Nguyen Le Khang** (Team Lead) - Technical Lead, Code Implementation  
+- **Augustine, Nguyen Le Khang, Cheo Clovis Ngu** (Team Lead) - Technical Lead, Code Implementation  
 - **Akter Sanjida** - Debugging and advise on HTML Structure & Design  
 - **Muskan Umme** - Debugging and advise on UX/UI Design, CSS Styling  
 
@@ -57,3 +57,4 @@ Below are some snapshots of the website:
 - **Augustine, Nguyen Le Khang** - Team Lead, Technical Implementation, Coding
 - **Akter Sanjida** - HTML Structure & Layout Design
 - **Muskan Umme** - UX/UI Design, CSS Styling, Visual Enhancements
+**Cheo Clovis Ngu** - edited the general layout of the website and included some important pages and key features.
